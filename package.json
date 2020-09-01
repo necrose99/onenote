@@ -81,7 +81,7 @@
             "category": "Office",
             "icon": "./src/electron/images/",
             "target": [
-                "AppImage"
+                "AppImage" "deb" "rpm"
             ]
         },
         "snap": {
